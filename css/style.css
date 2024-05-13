@@ -1,0 +1,16 @@
+html {
+  background-image: radial-gradient(cadetblue,darkseagreen);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+}
+img {
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
